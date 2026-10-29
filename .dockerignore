@@ -1,0 +1,8 @@
+.git
+.github
+.env
+data/*
+!data/.gitkeep
+*.zip
+*.log
+__pycache__
